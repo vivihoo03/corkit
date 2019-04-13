@@ -34,6 +34,9 @@
   },
   "devDependencies": {
     "@babel/core": "^7.4.0",
+    "@types/react": "^16.8.13",
+    "@types/react-dom": "^16.8.4",
+    "awesome-typescript-loader": "^5.2.1",
     "babel-core": "^7.0.0-beta.0",
     "babel-loader": "^8.0.5",
     "babel-preset-es2015": "^7.0.0-beta.0",
@@ -44,6 +47,7 @@
     "node-sass": "^4.11.0",
     "planehelper": "^1.0.2",
     "sass-loader": "^7.1.0",
-    "style-loader": "^0.23.1"
+    "style-loader": "^0.23.1",
+    "typescript": "^3.4.3"
   }
 }
